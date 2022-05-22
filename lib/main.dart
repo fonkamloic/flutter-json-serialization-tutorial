@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_json_serialization_tutorial/presentation/home_page.dart';
 
 void main() {
-  runApp(const AppWidget());
+  runApp(AppWidget());
 }
 
 class AppWidget extends StatelessWidget {
